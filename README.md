@@ -1,14 +1,13 @@
-# pw.com
- This is part of the code written by the owner of this entry during the study
+# 基于物联网的远程实验实现方法
  这是基于树莓派的一种LRC网上实验教具的全部代码，包含
  
- 1.PCF8591模块实现I2C通信
+ 1.PCF8591模块实现I2C通信获得电压的实现
  
- 2.AD9850模块波形发生器
+ 2.AD9850模块波形发生器发生任一频率的信号的实现
  
- 3.GPIO口直接控制继电器
+ 3.GPIO口直接控制继电器的实现
  
- 4.实现和阿里云物联网平台的基于MQTT协议的通信。
+ 4.和阿里云物联网平台的基于MQTT协议的通信的实现
  
  5.CSV文件是用来存储实验数据的，用来分析LRC谐振电路的各项属性
  
