@@ -29,4 +29,4 @@
 8.继电器
 
 ## 电路图
-
+![Aaron Swartz](https://raw.githubusercontent.com/Creator-lyf/pw.com/master/电路图.png)
