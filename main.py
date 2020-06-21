@@ -9,9 +9,9 @@ import pandas as pd
 
 
 options = {
-    'productKey':'a1PMYmfi27V',
-    'deviceName':'tEEEm8gknOyy6cLUEzIl',
-    'deviceSecret':'fgqmqSDoqFogzEwW9swlRfW8sbMpPHX7',
+    'productKey':'######',
+    'deviceName':'#####',
+    'deviceSecret':'###',
     'port':1883,
     'host':'iot-as-mqtt.cn-shanghai.aliyuncs.com'
 }
